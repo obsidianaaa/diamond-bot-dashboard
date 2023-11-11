@@ -1,0 +1,8 @@
+{
+    "clientID":"1100148011843211386",
+    "clientSecret":"5Sz6m3oQ2QxgDqfTnlzCQRaFf6Iv3FVd",
+    "domain":"http://192.168.233.1:3000/",
+    "callback":"http://192.168.233.1:3000/callback",
+    "invite":"https://discord.com/api/oauth2/authorize?client_id=981916679191818292&permissions=8&scope=bot%20applications.commands"
+}
+

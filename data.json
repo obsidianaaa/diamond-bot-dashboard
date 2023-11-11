@@ -1,0 +1,39 @@
+{
+    "name" :"Diamond Bot",
+
+    "home": [
+     {   "title":"Diamond Bot",
+        "description":"El Diamond Bot es un bot 8 en 1 que aun está en desarrollo. Tiene sistema de verificación, moderación, bienvenidas, economía, diversión, tickets, sorteos y pronto tendrá sistema de música. Vengo a ofreceros los servicios de mi bot, porque lo quiero verificar. Para verificar un bot tiene que estar en mínimo 60 servidores y ya que acaba de salir de la fase beta solo está en 20 servidores. Hice el bot tan completo porque mi servidor estaba lleno de bots y no quería que pareciera que hubiese más bots que personas, entonces decidí hacer mi propio bot para solo tener 1 Bot en vez de 7.",
+        "image":"https://cdn.discordapp.com/attachments/936876336591564850/1017105206690988192/Code_typing-cuate.png"
+    },
+    {
+        "title":"Auto Moderation",
+        "description":"La moderación de tu servidor de Discord estará un paso más adelante con nuestros servicios de Moderación.",
+        "image":"https://cdn.discordapp.com/attachments/936876336591564850/1017107000808714280/Top_secret-amico.png"
+     }
+    ],
+
+
+
+
+
+
+
+
+    "navigation":[
+
+        {
+            "name":"Comandos",
+            "href":"/commands"
+        },
+        {
+            "name":"Premium",
+            "href":"/premium"
+        },
+        {
+            "name":"Invitame",
+            "href":"/invite"
+        }
+    ]
+}
+
